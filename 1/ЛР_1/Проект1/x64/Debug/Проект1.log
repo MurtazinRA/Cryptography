@@ -1,0 +1,52 @@
+﻿  ro_main.c
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(59): warning C4013: encrypt: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(68): warning C4013: decrypt: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(83): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(98): warning C4013: inverse: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(137): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(146): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(146): warning C4029: объявленный список формальных параметров отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(212): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(223): warning C4244: функция: преобразование "unsigned __int64" в "char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(223): warning C4020: cipher: слишком много фактических параметров
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(224): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(317): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(336): warning C4244: функция: преобразование "unsigned __int64" в "char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(336): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char"
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(336): warning C4024: decipher: различные типы для формального и фактического параметров 2
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(336): warning C4024: decipher: различные типы для формального и фактического параметров 3
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(336): warning C4020: decipher: слишком много фактических параметров
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(337): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(348): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(348): warning C4029: объявленный список формальных параметров отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(352): warning C4244: инициализация: преобразование "int64_t" в "int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(432): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(432): warning C4029: объявленный список формальных параметров отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(444): warning C4244: =: преобразование "unsigned __int64" в "unsigned char", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(452): warning C4101: a_shtrih: неиспользованная локальная переменная
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(475): warning C4101: a: неиспользованная локальная переменная
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(476): warning C4101: b: неиспользованная локальная переменная
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(474): warning C4101: a0: неиспользованная локальная переменная
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(506): warning C4028: формальный параметр 1 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(506): warning C4028: формальный параметр 2 отличается от объявления
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(539): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(605): warning C4142: "inverse": неопасное переопределение типа
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(608): warning C4244: return: преобразование "unsigned __int64" в "long", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(770): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(770): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(774): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(774): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(797): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(797): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(801): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(801): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(809): warning C4244: функция: преобразование "int64_t" в "double", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(809): warning C4244: return: преобразование "double" в "int64_t", возможна потеря данных
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(343): warning C4715: decrypt: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(503): warning C4715: xfd: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(469): warning C4715: decipher: значение возвращается не при всех путях выполнения
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(639): warning C4716: find_e: должна возвращать значение
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(790): warning C4716: jacobi_sym2: должна возвращать значение
+c:\users\1\documents\visual studio 2017\projects\проект1\проект1\ro_main.c(777): warning C4715: legendre_sym: значение возвращается не при всех путях выполнения
+  Проект1.vcxproj -> C:\Users\1\documents\visual studio 2017\Projects\Проект1\x64\Debug\Проект1.exe
+  Проект1.vcxproj -> C:\Users\1\documents\visual studio 2017\Projects\Проект1\x64\Debug\Проект1.pdb (Partial PDB)
