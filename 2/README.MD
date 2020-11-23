@@ -13,10 +13,7 @@ psql
 create database testdb;  
 alter user postgres with encrypted password '1111';  
   
-Создаем таблицу:  
-CREATE TABLE Users_info (id SERIAL PRIMARY KEY, login VARCHAR(32), email VARCHAR(32), password VARCHAR(32), hash TEXT);  
-  
-Затем заполняем таблицу несколькими строками(приведен код для Python):  
+Создаем таблицу и заполняем таблицу несколькими строками(приведен код для Python):    
 cur.execute("CREATE TABLE Users_info (id SERIAL PRIMARY KEY, login VARCHAR(32), email VARCHAR(32), password VARCHAR(32), hash TEXT);")  
 cur.execute("INSERT INTO Users_info (login, email, password, hash) VALUES (%s, %s, %s, %s);", ('ivanpetrov', 'fohnsmith2@yandex.ru', 'vanya007', '0'))  
 cur.execute("INSERT INTO Users_info (login, email, password, hash) VALUES (%s, %s, %s, %s);", ('vasyaivanov', 'fohnsmith1@yandex.ru', 'supervasya', '0'))  
